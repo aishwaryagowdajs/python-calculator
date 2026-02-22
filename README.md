@@ -7,9 +7,9 @@ It is a simple calculator that performs basic arithmetic operations.
 ## 🚀 Features
 - Addition
 - Subtraction
-- Multiplication
-- Division
+- Multiplication 
 - Floor Division
+- Division
 
 ## 📌 Concepts Used
 - Variables
